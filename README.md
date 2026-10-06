@@ -1,6 +1,6 @@
 # Nythra
 
-**Nythra** is a single-player Pathfinder 2e campaign for Foundry Virtual Tabletop, published with ECB.
+**Nythra** is a single-player Pathfinder 2e campaign for Foundry Virtual Tabletop.
 
 ## Compatibility
 
@@ -21,7 +21,7 @@ Nythra uses the player character Actor as the portable campaign save. Keep/expor
 
 ## About
 
-Nythra is built from an ongoing Pathfinder 2e campaign and adapted into a single-player experience using ECB (the PF2e Single-Player Campaign Builder).
+Nythra is a post-apocalyptic Pathfinder 2e campaign adapted into a single-player experience for Foundry VTT.
 
 ---
 
