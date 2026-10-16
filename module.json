@@ -2,7 +2,7 @@
   "id": "nythra",
   "title": "Nythra",
   "description": "",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [],
   "compatibility": {
     "minimum": "14",
@@ -24,10 +24,10 @@
     "scripts/main.js"
   ],
   "styles": [
-    "styles/campaign-runtime-v0.96.7.17.css",
-    "styles/encounter-play-ui-v0.96.7.17.css"
+    "styles/campaign-runtime-v0.96.7.18.css",
+    "styles/encounter-play-ui-v0.96.7.18.css"
   ],
   "url": "https://github.com/phoenixforgedworlds/nythra",
   "manifest": "https://raw.githubusercontent.com/phoenixforgedworlds/nythra/main/module.json",
-  "download": "https://github.com/phoenixforgedworlds/nythra/releases/download/0.1.1/nythra-v0.1.1.zip"
+  "download": "https://github.com/phoenixforgedworlds/nythra/releases/download/0.1.2/nythra-v0.1.2.zip"
 }
